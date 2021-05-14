@@ -13,6 +13,7 @@ export default function Home() {
     <section>
       <Head>
         <title>React Todo</title>
+        <meta name="description" content="Todo App built with Redux Toolkit, Next.js and Tailwind CSS" />
       </Head>
       <form
         onSubmit={(e) => {
